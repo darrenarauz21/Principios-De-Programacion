@@ -1,3 +1,5 @@
+/*Calcular e imprimir la sumatoria de la siguiente progresión aritmética: 
+1+1/2+1/3+1/4 ...*/
 public class SumaDeFraciones {
 		public static void main (String[] args) 
 			{
