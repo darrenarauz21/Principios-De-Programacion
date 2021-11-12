@@ -21,7 +21,7 @@ main()
 				n=n/2;
 			else
 				n=n*3+1;
-				cout<<n<<" "<<endl;
+			cout<<n<<" "<<endl;
 		}
 	}
 	cout<<"\n"<<endl;
